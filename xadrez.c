@@ -7,6 +7,8 @@
 int main() {
     
     printf("Desafio Xadrez - Novato\n");
+    printf("Novo commit\n");
+
     /// Movimento da Torre com FOR: 5 casas para a direita
     printf("\nMovimento da Torre:\n");
     for (int t = 1; t <= 5; t++) {
